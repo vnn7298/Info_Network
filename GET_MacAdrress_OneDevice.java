@@ -1,3 +1,7 @@
+package VN7298;
+
+// Project Get MacAdress for one hardware devices 
+
 import java.net.InetAddress;
 import java.net.NetworkInterface;
 import java.net.SocketException;
